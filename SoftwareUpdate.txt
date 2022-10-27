@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
