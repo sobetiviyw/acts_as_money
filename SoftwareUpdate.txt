@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
