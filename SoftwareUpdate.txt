@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
