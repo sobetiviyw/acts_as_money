@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Replacing Images for torchscript.md (#8596)
