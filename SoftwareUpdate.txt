@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Segment TensorRT batch=3 fix (#7952)
