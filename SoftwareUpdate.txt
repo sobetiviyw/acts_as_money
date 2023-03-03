@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
