@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
