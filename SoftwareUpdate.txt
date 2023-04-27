@@ -1,1 +1,1 @@
-fix predict with class filter
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
