@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Update fraction arg to employ a random selection (#8234)
