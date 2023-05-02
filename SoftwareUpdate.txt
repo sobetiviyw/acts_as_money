@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add OBB benchmarks to CI (#7777)
