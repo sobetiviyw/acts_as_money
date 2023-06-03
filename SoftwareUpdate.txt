@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
