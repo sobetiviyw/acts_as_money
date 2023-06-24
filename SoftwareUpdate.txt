@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Update the heatmap module code + docs (#7045)
