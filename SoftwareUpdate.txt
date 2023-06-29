@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add Amazon Sagemaker Docs integrations page (#7293)
