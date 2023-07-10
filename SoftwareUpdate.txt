@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
