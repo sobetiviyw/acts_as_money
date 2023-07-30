@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
