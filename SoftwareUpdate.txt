@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
