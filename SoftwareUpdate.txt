@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
