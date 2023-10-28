@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+docs: update view-results-in-terminal.md (#66)
