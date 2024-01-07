@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
