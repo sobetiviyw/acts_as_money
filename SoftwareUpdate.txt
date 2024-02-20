@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
