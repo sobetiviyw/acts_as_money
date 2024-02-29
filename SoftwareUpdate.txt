@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
