@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
