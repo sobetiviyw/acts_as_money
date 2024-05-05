@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Compress docs images (#8124)
