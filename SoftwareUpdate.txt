@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+ultralytics 8.0.228 add training time argument (#7054)
