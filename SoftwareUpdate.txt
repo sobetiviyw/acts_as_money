@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+docs: update view-results-in-terminal.md (#66)
