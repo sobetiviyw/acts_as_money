@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
