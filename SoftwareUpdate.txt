@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Fix OpenVINO links (#7930)
