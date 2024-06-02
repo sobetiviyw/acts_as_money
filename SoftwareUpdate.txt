@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Docs partial mdformat improvements (#7378)
