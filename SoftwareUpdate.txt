@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Retry once for Docker CI failures (#8164)
